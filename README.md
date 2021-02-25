@@ -1,2 +1,7 @@
 ### BuitenzorgSMS📲
-Download And Rename: data-resource-project to name Zip(SH-zip)
+Download And Rename: 
+- data
+- resources
+- project 
+
+to name Zip(SH-zip/Swb)
